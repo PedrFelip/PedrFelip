@@ -1,5 +1,5 @@
 # About Me:
-Sou estudante e desenvolvedor com foco em DevOps.<br>Gosto de aprender na prática, resolver problemas
+Sou estudante e desenvolvedor com foco em DevOps.<br>Gosto de aprender na prática e resolver problemas.
   
 
 ## 🌐 Socials:
