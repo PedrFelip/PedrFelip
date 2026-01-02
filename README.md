@@ -10,7 +10,7 @@ Gosto de aprender na prática, resolver problemas e compartilhar conhecimento.
 </p>
 
 <p align="center">
-<b>DevOps | Backend | Cloud | Automação</b>
+<b>Backend | DevOps </b>
 </p>
 
 ---
@@ -36,12 +36,12 @@ Gosto de aprender na prática, resolver problemas e compartilhar conhecimento.
 
 ---
 
-<details>
-<summary>📊 Estatísticas do GitHub</summary>
+
+
+### 📊 Estatísticas do GitHub
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=PedrFelip&show_icons=true&theme=radical&hide_border=true" alt="stats"/>
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=PedrFelip&theme=radical&hide_border=true" alt="streak"/>
-	<img src="https://github-readme-activity-graph.cyclic.app/graph?username=PedrFelip&theme=radical&hide_border=true" alt="activity graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PedrFelip&show_icons=true&theme=radical&hide_border=true" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedrFelip&theme=radical&hide_border=true" alt="streak"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=PedrFelip&theme=radical&hide_border=true" alt="activity graph"/>
 </p>
-</details>
