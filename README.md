@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Pedro+Felipe!)](https://git.io/typing-svg)
 
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Pedro+Felipe!" alt="Typing SVG" /></a>
+
 <p align="center">
 Estudante e desenvolvedor apaixonado por <b>DevOps</b> e tecnologia.<br>
 Gosto de aprender na prática, resolver problemas e compartilhar conhecimento.
