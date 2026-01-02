@@ -2,10 +2,6 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0db7ed,100:0077B5&height=180&section=header&text=Pedro%20Felipe&fontSize=40&fontAlign=50&fontColor=fff" alt="Pedro Felipe"/>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Pedro+Felipe!)](https://git.io/typing-svg)
-
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Pedro+Felipe!" alt="Typing SVG" /></a>
-
 <p align="center">
 Estudante e desenvolvedor apaixonado por <b>DevOps</b> e tecnologia.<br>
 Gosto de aprender na prática, resolver problemas e compartilhar conhecimento.
