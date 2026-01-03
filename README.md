@@ -3,11 +3,6 @@
 </p>
 
 <p align="center">
-Estudante e desenvolvedor apaixonado por <b>DevOps</b> e tecnologia.<br>
-Gosto de aprender na prática, resolver problemas e compartilhar conhecimento.
-</p>
-
-<p align="center">
 <b>Backend | DevOps </b>
 </p>
 
