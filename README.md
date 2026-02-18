@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<b>Backend | DevOps </b>
+<b>Backend</b>
 </p>
 
 ---
