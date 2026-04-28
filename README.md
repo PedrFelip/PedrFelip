@@ -27,7 +27,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedrFelip&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PedrFelip&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&count_private=true&hide=stars,commits,prs,issues,contribs" alt="GitHub Stats" />
 </p>
 
 
