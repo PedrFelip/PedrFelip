@@ -44,3 +44,11 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PedrFelip/PedrFelip/output/snake.svg">
   </picture>
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedrFelip/PedrFelip/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedrFelip/PedrFelip/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PedrFelip/PedrFelip/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
