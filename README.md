@@ -1,18 +1,20 @@
 <p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0db7ed,100:0077B5&height=180&section=header&text=Pedro%20Felipe&fontSize=40&fontAlign=50&fontColor=fff" alt="Pedro Felipe"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0db7ed,100:0077B5&height=180&section=header&text=Pedro%20Felipe&fontSize=40&fontAlign=50&fontColor=fff" alt="Pedro Felipe"/>
 </p>
 
 <p align="center">
-<b>Backend</b>
+<b>Backend Developer</b>
 </p>
 
 ---
 
 ### Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrfelip)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pfsilva190406@gmail.com)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/PedroFelipeek)
+<p align="left">
+  <a href="https://linkedin.com/in/pedrfelip"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:pfsilva190406@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://x.com/PedroFelipeek"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"></a>
+</p>
 
 ---
 
@@ -27,8 +29,18 @@
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+---
+
+### Contribuições
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedrFelip&theme=github-dark-blue" alt="GitHub Streak" />
 </p>
 
-<img src="https://raw.githubusercontent.com/PedrFelip/PedrFelip/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedrFelip/PedrFelip/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedrFelip/PedrFelip/output/snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PedrFelip/PedrFelip/output/snake.svg">
+  </picture>
+</p>
