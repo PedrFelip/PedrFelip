@@ -34,10 +34,6 @@
 ### Contribuições
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PedrFelip&theme=github-dark-blue" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedrFelip/PedrFelip/output/snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedrFelip/PedrFelip/output/snake.svg">
