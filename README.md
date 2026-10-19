@@ -5,9 +5,7 @@
 
   <br><br>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedrFelip/PedrFelip/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedrFelip/PedrFelip/output/snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PedrFelip/PedrFelip/output/snake.svg">
-  </picture>
+  <a href="https://ascii.rest/planet-scale/">
+    <img alt="Planeta em ASCII com uma lua em órbita — animação de ascii.rest" src="assets/planet-scale.svg" width="800">
+  </a>
 </div>
